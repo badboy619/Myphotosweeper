@@ -192,4 +192,4 @@ This repository serves as the official landing page for MyPhotoSweeper. The soft
 **Get the most recent version of MyPhotoSweeper today!**
 
 ---
-**Last updated:** 2026-11-12 18:01:52 UTC
+**Last updated:** 2026-11-13 00:00:21 UTC
